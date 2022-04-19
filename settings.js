@@ -19,16 +19,16 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "Loli-Mdོ"
-global.ownername= "ᴹᴿ᭄ Kyouka ×፝֟͜×"
+global.ownername= "ᴹᴿ᭄ Zex's Adit×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://instagram.com/ruka.nime7"
+global.youtube = "https://youtube.com/channel/UCx0UoO1YgOMGnbyzyO7rL6A"
 global.github = "https://Neko-Yuri.github.io/"
-global.ownernomer = "6282112080081"
-global.ownernomerr = "+6282112080081"
+global.ownernomer = "6285334190704"
+global.ownernomerr = "+6285334190704"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282112080081","6282112080081","6282112080081"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285334190704","6285334190704","6285334190704"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Loli-Mdོ' //sticker wm
 global.author = 'ᴹᴿ᭄ Kyouka ×፝֟͜×' //sticker wm
 global.sessionName = 'session'
